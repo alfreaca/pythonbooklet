@@ -1,0 +1,2 @@
+quote = "GET PAID, GET LAID, GATORADE"
+
